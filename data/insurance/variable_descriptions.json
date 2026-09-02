@@ -1,0 +1,253 @@
+{
+  "Accident": {
+    "name": "Accident Severity",
+    "description": "The severity of an accident involving the insured vehicle.",
+    "states_description": {
+      "None": "No accident occurred.",
+      "Mild": "A minor accident with minimal impact.",
+      "Moderate": "A moderate accident with notable damage or injury.",
+      "Severe": "A serious accident with significant damage or injury."
+    }
+  },
+  "Age": {
+    "name": "Driver Age Group",
+    "description": "The age category of the primary driver.",
+    "states_description": {
+      "Adolescent": "Young or teen driver, typically under 25.",
+      "Adult": "Adult driver, typically between 25 and 65.",
+      "Senior": "Senior driver, typically over 65."
+    }
+  },
+  "Airbag": {
+    "name": "Airbag Present",
+    "description": "Whether the vehicle is equipped with airbags.",
+    "states_description": {
+      "True": "The vehicle has airbags.",
+      "False": "The vehicle does not have airbags."
+    }
+  },
+  "AntiTheft": {
+    "name": "Anti-Theft Device",
+    "description": "Whether the vehicle is equipped with an anti-theft system.",
+    "states_description": {
+      "True": "The vehicle has an anti-theft device installed.",
+      "False": "The vehicle does not have an anti-theft device."
+    }
+  },
+  "Antilock": {
+    "name": "Antilock Brakes",
+    "description": "Whether the vehicle is equipped with antilock braking system (ABS).",
+    "states_description": {
+      "True": "The vehicle has antilock brakes.",
+      "False": "The vehicle does not have antilock brakes."
+    }
+  },
+  "CarValue": {
+    "name": "Car Value",
+    "description": "The estimated market value of the insured vehicle.",
+    "states_description": {
+      "FiveThou": "Vehicle valued around $5,000.",
+      "TenThou": "Vehicle valued around $10,000.",
+      "TwentyThou": "Vehicle valued around $20,000.",
+      "FiftyThou": "Vehicle valued around $50,000.",
+      "Million": "Vehicle valued around $1,000,000 or more."
+    }
+  },
+  "Cushioning": {
+    "name": "Cushioning Quality",
+    "description": "The quality of the vehicle's occupant cushioning and crash protection systems.",
+    "states_description": {
+      "Poor": "Minimal occupant protection in a collision.",
+      "Fair": "Below-average occupant protection.",
+      "Good": "Adequate occupant protection.",
+      "Excellent": "Superior occupant cushioning and protection."
+    }
+  },
+  "DrivHist": {
+    "name": "Driving History",
+    "description": "The number of previous accidents or violations on the driver's record.",
+    "states_description": {
+      "Zero": "No prior accidents or violations.",
+      "One": "One prior accident or violation.",
+      "Many": "Multiple prior accidents or violations."
+    }
+  },
+  "DrivQuality": {
+    "name": "Driving Quality",
+    "description": "An overall assessment of the driver's on-road driving behavior.",
+    "states_description": {
+      "Poor": "Frequently unsafe or reckless driving behavior.",
+      "Normal": "Typical, competent driving behavior.",
+      "Excellent": "Highly safe and attentive driving behavior."
+    }
+  },
+  "DrivingSkill": {
+    "name": "Driving Skill",
+    "description": "The inherent driving skill level of the driver.",
+    "states_description": {
+      "SubStandard": "Below-average driving ability.",
+      "Normal": "Average driving ability.",
+      "Expert": "Highly skilled and experienced driver."
+    }
+  },
+  "GoodStudent": {
+    "name": "Good Student",
+    "description": "Whether the driver qualifies for a good student discount, indicating academic achievement.",
+    "states_description": {
+      "True": "The driver qualifies as a good student.",
+      "False": "The driver does not qualify as a good student."
+    }
+  },
+  "HomeBase": {
+    "name": "Home Base Location",
+    "description": "The type of area where the vehicle is primarily garaged or parked.",
+    "states_description": {
+      "Secure": "Vehicle is kept in a secure, protected location such as a locked garage.",
+      "City": "Vehicle is primarily kept in an urban city environment.",
+      "Suburb": "Vehicle is primarily kept in a suburban area.",
+      "Rural": "Vehicle is primarily kept in a rural area."
+    }
+  },
+  "ILiCost": {
+    "name": "Injury Liability Cost",
+    "description": "The estimated cost of injury liability claims resulting from an accident.",
+    "states_description": {
+      "Thousand": "Injury liability cost around $1,000.",
+      "TenThou": "Injury liability cost around $10,000.",
+      "HundredThou": "Injury liability cost around $100,000.",
+      "Million": "Injury liability cost around $1,000,000 or more."
+    }
+  },
+  "MakeModel": {
+    "name": "Vehicle Make and Model Category",
+    "description": "The general category of the vehicle's make and model.",
+    "states_description": {
+      "SportsCar": "A high-performance sports car.",
+      "Economy": "A budget-friendly economy vehicle.",
+      "FamilySedan": "A standard family sedan.",
+      "Luxury": "A luxury vehicle.",
+      "SuperLuxury": "An ultra-premium, super-luxury vehicle."
+    }
+  },
+  "MedCost": {
+    "name": "Medical Cost",
+    "description": "The estimated medical costs resulting from an accident.",
+    "states_description": {
+      "Thousand": "Medical costs around $1,000.",
+      "TenThou": "Medical costs around $10,000.",
+      "HundredThou": "Medical costs around $100,000.",
+      "Million": "Medical costs around $1,000,000 or more."
+    }
+  },
+  "Mileage": {
+    "name": "Annual Mileage",
+    "description": "The estimated number of miles driven per year.",
+    "states_description": {
+      "FiveThou": "Approximately 5,000 miles per year.",
+      "TwentyThou": "Approximately 20,000 miles per year.",
+      "FiftyThou": "Approximately 50,000 miles per year.",
+      "Domino": "Extremely high mileage, well above 50,000 miles per year."
+    }
+  },
+  "OtherCar": {
+    "name": "Other Car Involved",
+    "description": "Whether another car was involved in the accident.",
+    "states_description": {
+      "True": "Another car was involved in the accident.",
+      "False": "No other car was involved in the accident."
+    }
+  },
+  "OtherCarCost": {
+    "name": "Other Car Cost",
+    "description": "The estimated cost of damage to the other vehicle involved in an accident.",
+    "states_description": {
+      "Thousand": "Other car damage cost around $1,000.",
+      "TenThou": "Other car damage cost around $10,000.",
+      "HundredThou": "Other car damage cost around $100,000.",
+      "Million": "Other car damage cost around $1,000,000 or more."
+    }
+  },
+  "PropCost": {
+    "name": "Property Cost",
+    "description": "The estimated total property damage cost resulting from an accident.",
+    "states_description": {
+      "Thousand": "Property damage cost around $1,000.",
+      "TenThou": "Property damage cost around $10,000.",
+      "HundredThou": "Property damage cost around $100,000.",
+      "Million": "Property damage cost around $1,000,000 or more."
+    }
+  },
+  "RiskAversion": {
+    "name": "Risk Aversion",
+    "description": "The driver's general attitude toward risk-taking behavior.",
+    "states_description": {
+      "Psychopath": "Extremely reckless with no regard for risk.",
+      "Adventurous": "Willing to take significant risks.",
+      "Normal": "Average, balanced attitude toward risk.",
+      "Cautious": "Highly risk-averse and careful."
+    }
+  },
+  "RuggedAuto": {
+    "name": "Vehicle Ruggedness",
+    "description": "The structural durability and crash resistance of the vehicle.",
+    "states_description": {
+      "EggShell": "Very fragile vehicle structure with poor crash resistance.",
+      "Football": "Moderately rugged vehicle with average crash resistance.",
+      "Tank": "Extremely rugged vehicle with excellent crash resistance."
+    }
+  },
+  "SeniorTrain": {
+    "name": "Senior Training",
+    "description": "Whether a senior driver has completed a defensive driving or senior training course.",
+    "states_description": {
+      "True": "The senior driver has completed a training course.",
+      "False": "The senior driver has not completed a training course."
+    }
+  },
+  "SocioEcon": {
+    "name": "Socioeconomic Status",
+    "description": "The socioeconomic class of the driver.",
+    "states_description": {
+      "Prole": "Lower socioeconomic status.",
+      "Middle": "Middle-class socioeconomic status.",
+      "UpperMiddle": "Upper-middle-class socioeconomic status.",
+      "Wealthy": "Wealthy, high socioeconomic status."
+    }
+  },
+  "Theft": {
+    "name": "Theft",
+    "description": "Whether the vehicle was stolen.",
+    "states_description": {
+      "True": "The vehicle was stolen.",
+      "False": "The vehicle was not stolen."
+    }
+  },
+  "ThisCarCost": {
+    "name": "This Car Repair Cost",
+    "description": "The estimated cost to repair or replace the insured vehicle after an incident.",
+    "states_description": {
+      "Thousand": "Repair cost around $1,000.",
+      "TenThou": "Repair cost around $10,000.",
+      "HundredThou": "Repair cost around $100,000.",
+      "Million": "Repair cost around $1,000,000 or more."
+    }
+  },
+  "ThisCarDam": {
+    "name": "This Car Damage",
+    "description": "The severity of damage to the insured vehicle.",
+    "states_description": {
+      "None": "No damage to the vehicle.",
+      "Mild": "Minor, cosmetic damage.",
+      "Moderate": "Moderate structural or mechanical damage.",
+      "Severe": "Severe damage, potentially totaling the vehicle."
+    }
+  },
+  "VehicleYear": {
+    "name": "Vehicle Year",
+    "description": "Whether the vehicle is a current or older model year.",
+    "states_description": {
+      "Current": "The vehicle is a current model year.",
+      "Older": "The vehicle is an older model year."
+    }
+  }
+}

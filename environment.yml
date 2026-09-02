@@ -1,0 +1,26 @@
+name: absol_bn
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12.9
+  - pytorch=2.7.0
+  - cpuonly
+  - pgmpy=1.0.0
+  - pandas=2.3.3
+  - numpy=2.4.1
+  - scikit-learn=1.8.0
+  - scipy=1.16.3
+  - statsmodels=0.14.6
+  - networkx=3.6.1
+  - pygraphviz=1.14
+  - openai=2.14.0
+  - tqdm=4.67.1
+  - ipykernel=7.1.0
+  - matplotlib-inline=0.2.1
+  - opt_einsum
+  - pyro-ppl
+  - pip
+  - pip:
+      - causal-learn==0.1.4.8

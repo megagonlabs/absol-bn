@@ -1,0 +1,1778 @@
+{
+  "Bakhuvudvaerk": {
+    "name": "Occipital Headache",
+    "description": "Pain or discomfort in the back of the head.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "Broestbesvaer": {
+    "name": "Chest Discomfort",
+    "description": "Pain or discomfort in the chest area.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "Broestryggsbesvaer": {
+    "name": "Thoracic Spine Discomfort",
+    "description": "Pain or discomfort in the upper/mid back (thoracic spine).",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "Bukbesvaer": {
+    "name": "Abdominal Discomfort",
+    "description": "Pain or discomfort in the abdomen.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "Central_broestsmaerta": {
+    "name": "Central Chest Pain",
+    "description": "Pain located in the center of the chest.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "Centrala_Ljumskbesvaer": {
+    "name": "Central Groin Discomfort",
+    "description": "Pain or discomfort in the central groin area.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "Coccydyni": {
+    "name": "Coccydynia",
+    "description": "Pain in the tailbone area.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "DLS_C1_C2": {
+    "name": "Spinal Segment C1-C2 Issue",
+    "description": "Dysfunction or symptom associated with the C1-C2 cervical spinal segment.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "DLS_C2_C3": {
+    "name": "Spinal Segment C2-C3 Issue",
+    "description": "Dysfunction or symptom associated with the C2-C3 cervical spinal segment.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "DLS_C3_C4": {
+    "name": "Spinal Segment C3-C4 Issue",
+    "description": "Dysfunction or symptom associated with the C3-C4 cervical spinal segment.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "DLS_C4_C5": {
+    "name": "Spinal Segment C4-C5 Issue",
+    "description": "Dysfunction or symptom associated with the C4-C5 cervical spinal segment.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "DLS_C5_C6": {
+    "name": "Spinal Segment C5-C6 Issue",
+    "description": "Dysfunction or symptom associated with the C5-C6 cervical spinal segment.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "DLS_C6_C7": {
+    "name": "Spinal Segment C6-C7 Issue",
+    "description": "Dysfunction or symptom associated with the C6-C7 cervical spinal segment.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "DLS_C7_C8": {
+    "name": "Spinal Segment C7-C8 Issue",
+    "description": "Dysfunction or symptom associated with the C7-C8 cervical spinal segment.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "DLS_C8_T1": {
+    "name": "Spinal Segment C8-T1 Issue",
+    "description": "Dysfunction or symptom associated with the C8-T1 cervicothoracic spinal segment.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "DLS_L1_L2": {
+    "name": "Spinal Segment L1-L2 Issue",
+    "description": "Dysfunction or symptom associated with the L1-L2 lumbar spinal segment.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "DLS_L2_L3": {
+    "name": "Spinal Segment L2-L3 Issue",
+    "description": "Dysfunction or symptom associated with the L2-L3 lumbar spinal segment.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "DLS_L3_L4": {
+    "name": "Spinal Segment L3-L4 Issue",
+    "description": "Dysfunction or symptom associated with the L3-L4 lumbar spinal segment.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "DLS_L4_L5": {
+    "name": "Spinal Segment L4-L5 Issue",
+    "description": "Dysfunction or symptom associated with the L4-L5 lumbar spinal segment.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "DLS_L5_S1": {
+    "name": "Spinal Segment L5-S1 Issue",
+    "description": "Dysfunction or symptom associated with the L5-S1 lumbosacral spinal segment.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "DLS_S1_S2": {
+    "name": "Spinal Segment S1-S2 Issue",
+    "description": "Dysfunction or symptom associated with the S1-S2 sacral spinal segment.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "DLS_T10_T11": {
+    "name": "Spinal Segment T10-T11 Issue",
+    "description": "Dysfunction or symptom associated with the T10-T11 thoracic spinal segment.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "DLS_T11_T12": {
+    "name": "Spinal Segment T11-T12 Issue",
+    "description": "Dysfunction or symptom associated with the T11-T12 thoracic spinal segment.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "DLS_T12_L1": {
+    "name": "Spinal Segment T12-L1 Issue",
+    "description": "Dysfunction or symptom associated with the T12-L1 thoracolumbar spinal segment.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "DLS_T1_T2": {
+    "name": "Spinal Segment T1-T2 Issue",
+    "description": "Dysfunction or symptom associated with the T1-T2 thoracic spinal segment.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "DLS_T2_T3": {
+    "name": "Spinal Segment T2-T3 Issue",
+    "description": "Dysfunction or symptom associated with the T2-T3 thoracic spinal segment.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "DLS_T3_T4": {
+    "name": "Spinal Segment T3-T4 Issue",
+    "description": "Dysfunction or symptom associated with the T3-T4 thoracic spinal segment.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "DLS_T4_T5": {
+    "name": "Spinal Segment T4-T5 Issue",
+    "description": "Dysfunction or symptom associated with the T4-T5 thoracic spinal segment.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "DLS_T5_T6": {
+    "name": "Spinal Segment T5-T6 Issue",
+    "description": "Dysfunction or symptom associated with the T5-T6 thoracic spinal segment.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "DLS_T6_T7": {
+    "name": "Spinal Segment T6-T7 Issue",
+    "description": "Dysfunction or symptom associated with the T6-T7 thoracic spinal segment.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "DLS_T7_T8": {
+    "name": "Spinal Segment T7-T8 Issue",
+    "description": "Dysfunction or symptom associated with the T7-T8 thoracic spinal segment.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "DLS_T8_T9": {
+    "name": "Spinal Segment T8-T9 Issue",
+    "description": "Dysfunction or symptom associated with the T8-T9 thoracic spinal segment.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "DLS_T9_T10": {
+    "name": "Spinal Segment T9-T10 Issue",
+    "description": "Dysfunction or symptom associated with the T9-T10 thoracic spinal segment.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "Haelbesvaer": {
+    "name": "Heel Discomfort",
+    "description": "Pain or discomfort in the heel.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "Huvudvaerk": {
+    "name": "Headache",
+    "description": "General pain in the head.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "IBS": {
+    "name": "IBS",
+    "description": "Irritable Bowel Syndrome.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "Interskapulaera_besvaer": {
+    "name": "Interscapular Discomfort",
+    "description": "Pain or discomfort between the shoulder blades.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "Kraniocervikal_ledskada": {
+    "name": "Craniocervical Joint Injury",
+    "description": "Injury or dysfunction in the craniocervical junction.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Achillesbesvaer": {
+    "name": "Left Achilles Discomfort",
+    "description": "Pain or discomfort in the left Achilles tendon.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Achillestendalgi": {
+    "name": "Left Achilles Tendalgia",
+    "description": "Pain specifically originating from the left Achilles tendon.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Achillodyni": {
+    "name": "Left Achillodynia",
+    "description": "Soreness or pain syndrome in the left Achilles tendon.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Adduktortendalgi": {
+    "name": "Left Adductor Tendalgia",
+    "description": "Pain in the left adductor tendons.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Armbaagsbesvaer": {
+    "name": "Left Elbow Discomfort",
+    "description": "Pain or discomfort in the left elbow.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Armbesvaer": {
+    "name": "Left Arm Discomfort",
+    "description": "Pain or discomfort in the left arm.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Armvecksbesvaer": {
+    "name": "Left Cubital Fossa Discomfort",
+    "description": "Pain or discomfort in the left crook of the arm.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Axel_impingement": {
+    "name": "Left Shoulder Impingement",
+    "description": "Impingement syndrome in the left shoulder.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Axelbesvaer": {
+    "name": "Left Shoulder Discomfort",
+    "description": "Pain or discomfort in the left shoulder.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Bakhuvudvaerk": {
+    "name": "Left Occipital Headache",
+    "description": "Pain in the left back side of the head.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Bakre_laarbesvaer": {
+    "name": "Left Posterior Thigh Discomfort",
+    "description": "Pain or discomfort in the back of the left thigh.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Benbesvaer": {
+    "name": "Left Leg Discomfort",
+    "description": "Pain or discomfort in the left leg.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Broestbesvaer": {
+    "name": "Left Chest Discomfort",
+    "description": "Pain or discomfort in the left chest.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_C2_Radikulopati": {
+    "name": "Left C2 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the left C2 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_C3_Radikulopati": {
+    "name": "Left C3 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the left C3 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_C4_Radikulopati": {
+    "name": "Left C4 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the left C4 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_C5_Radikulopati": {
+    "name": "Left C5 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the left C5 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_C6_Radikulopati": {
+    "name": "Left C6 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the left C6 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_C7_Radikulopati": {
+    "name": "Left C7 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the left C7 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_C8_Radikulopati": {
+    "name": "Left C8 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the left C8 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Central_broestsmaerta": {
+    "name": "Left Central Chest Pain",
+    "description": "Pain in the central-left area of the chest.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Centrala_broestbesvaer": {
+    "name": "Left Central Chest Discomfort",
+    "description": "Discomfort in the central-left area of the chest.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Dorsala_knaeledsbesvaer": {
+    "name": "Left Dorsal Knee Discomfort",
+    "description": "Pain or discomfort behind the left knee.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Fingerbesvaer": {
+    "name": "Left Finger Discomfort",
+    "description": "Pain or discomfort in the left fingers.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Fotbesvaer": {
+    "name": "Left Foot Discomfort",
+    "description": "Pain or discomfort in the left foot.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Fotledsbesvaer": {
+    "name": "Left Ankle Discomfort",
+    "description": "Pain or discomfort in the left ankle.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Fotvalvsbesvaer": {
+    "name": "Left Plantar Arch Discomfort",
+    "description": "Pain or discomfort in the arch of the left foot.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Fraemre_knaebesvaer": {
+    "name": "Left Anterior Knee Discomfort",
+    "description": "Pain or discomfort in the front of the left knee.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Fraemre_laarbesvaer": {
+    "name": "Left Anterior Thigh Discomfort",
+    "description": "Pain or discomfort in the front of the left thigh.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Haelbesvaer": {
+    "name": "Left Heel Discomfort",
+    "description": "Pain or discomfort in the left heel.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Handbesvaer": {
+    "name": "Left Hand Discomfort",
+    "description": "Pain or discomfort in the left hand.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Handledsbesvaer": {
+    "name": "Left Wrist Discomfort",
+    "description": "Pain or discomfort in the left wrist.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Hoeftbesvaer": {
+    "name": "Left Hip Discomfort",
+    "description": "Pain or discomfort in the left hip.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Hoeftkamsbesvaer": {
+    "name": "Left Iliac Crest Discomfort",
+    "description": "Pain or discomfort at the left iliac crest (hip bone).",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Interskapulaera_besvaer": {
+    "name": "Left Interscapular Discomfort",
+    "description": "Pain or discomfort to the left side between the shoulder blades.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Ischias": {
+    "name": "Left Sciatica",
+    "description": "Sciatic nerve pain extending down the left leg.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Kaekbesvaer": {
+    "name": "Left Jaw Discomfort",
+    "description": "Pain or discomfort in the left side of the jaw.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Knaebesvaer": {
+    "name": "Left Knee Discomfort",
+    "description": "Pain or discomfort in the left knee.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_L1_Radikulopati": {
+    "name": "Left L1 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the left L1 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_L2_Radikulopati": {
+    "name": "Left L2 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the left L2 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_L3_Radikulopati": {
+    "name": "Left L3 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the left L3 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_L4_Radikulopati": {
+    "name": "Left L4 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the left L4 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_L5_Radikulopati": {
+    "name": "Left L5 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the left L5 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Laarbesvaer": {
+    "name": "Left Thigh Discomfort",
+    "description": "Pain or discomfort in the left thigh.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Laterala_Fotbesvaer": {
+    "name": "Left Lateral Foot Discomfort",
+    "description": "Pain or discomfort on the outside of the left foot.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Laterala_armbaagsbesvaer": {
+    "name": "Left Lateral Elbow Discomfort",
+    "description": "Pain or discomfort on the outside of the left elbow.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Laterala_armsbesvaer": {
+    "name": "Left Lateral Arm Discomfort",
+    "description": "Pain or discomfort on the outside of the left arm.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Laterala_knaebesvaer": {
+    "name": "Left Lateral Knee Discomfort",
+    "description": "Pain or discomfort on the outside of the left knee.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Laterala_ljumskbesvaer": {
+    "name": "Left Lateral Groin Discomfort",
+    "description": "Pain or discomfort on the outside of the left groin.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Laterala_vadbesvaer": {
+    "name": "Left Lateral Calf Discomfort",
+    "description": "Pain or discomfort on the outside of the left calf.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Lillfingerbesvaer": {
+    "name": "Left Little Finger Discomfort",
+    "description": "Pain or discomfort in the left little finger.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Lilltaabesvaer": {
+    "name": "Left Little Toe Discomfort",
+    "description": "Pain or discomfort in the left little toe.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Ljumskbesvaer": {
+    "name": "Left Groin Discomfort",
+    "description": "Pain or discomfort in the left groin.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Lumbago": {
+    "name": "Left Lumbago",
+    "description": "Lower back pain mostly on the left side.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Mediala_armbaagsbesvaer": {
+    "name": "Left Medial Elbow Discomfort",
+    "description": "Pain or discomfort on the inside of the left elbow.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Mediala_knaeledsbesvaer": {
+    "name": "Left Medial Knee Discomfort",
+    "description": "Pain or discomfort on the inside of the left knee.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Mediala_ljumskbesvaer": {
+    "name": "Left Medial Groin Discomfort",
+    "description": "Pain or discomfort on the inside of the left groin.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Nackbesvaer": {
+    "name": "Left Neck Discomfort",
+    "description": "Pain or discomfort on the left side of the neck.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Nedre_bukbesvaer": {
+    "name": "Left Lower Abdominal Discomfort",
+    "description": "Pain or discomfort in the lower left abdomen.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Nyckelbensbesvaer": {
+    "name": "Left Collarbone Discomfort",
+    "description": "Pain or discomfort around the left collarbone.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Oegonbesvaer": {
+    "name": "Left Eye Discomfort",
+    "description": "Discomfort or issues affecting the left eye.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Oeronbesvaer": {
+    "name": "Left Ear Discomfort",
+    "description": "Discomfort or issues affecting the left ear.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Oevre_armbaagsbesvaer": {
+    "name": "Left Upper Elbow Discomfort",
+    "description": "Pain or discomfort in the upper left elbow region.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Oevre_armsbesvaer": {
+    "name": "Left Upper Arm Discomfort",
+    "description": "Pain or discomfort in the left upper arm.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_PFS": {
+    "name": "Left Patellofemoral Pain Syndrome",
+    "description": "Pain around or behind the kneecap in the left knee.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Pannhuvudvaerk": {
+    "name": "Left Frontal Headache",
+    "description": "Headache affecting the left side of the forehead.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_S1_Radikulopati": {
+    "name": "Left S1 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the left S1 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_S2_Radikulopati": {
+    "name": "Left S2 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the left S2 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Skinkbesvaer": {
+    "name": "Left Buttock Discomfort",
+    "description": "Pain or discomfort in the left buttock.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Skulderbesvaer": {
+    "name": "Left Shoulder Blade Discomfort",
+    "description": "Pain or discomfort around the left shoulder blade.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Stortaarbesvaer": {
+    "name": "Left Big Toe Discomfort",
+    "description": "Pain or discomfort in the left big toe.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_T10_Radikulopati": {
+    "name": "Left T10 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the left T10 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_T11_Radikulopati": {
+    "name": "Left T11 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the left T11 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_T12_Radikulopati": {
+    "name": "Left T12 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the left T12 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_T1_Radikulopati": {
+    "name": "Left T1 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the left T1 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_T2_Radikulopati": {
+    "name": "Left T2 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the left T2 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_T3_Radikulopati": {
+    "name": "Left T3 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the left T3 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_T4_Radikulopati": {
+    "name": "Left T4 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the left T4 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_T5_Radikulopati": {
+    "name": "Left T5 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the left T5 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_T6_Radikulopati": {
+    "name": "Left T6 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the left T6 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_T7_Radikulopati": {
+    "name": "Left T7 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the left T7 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_T8_Radikulopati": {
+    "name": "Left T8 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the left T8 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_T9_Radikulopati": {
+    "name": "Left T9 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the left T9 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Taaledbesvaer": {
+    "name": "Left Toe Joint Discomfort",
+    "description": "Pain or discomfort in the left toe joints.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Taarbesvaer": {
+    "name": "Left Toe Discomfort",
+    "description": "Pain or discomfort in the left toes.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Tibiaperialgi": {
+    "name": "Left Shin Splints",
+    "description": "Medial tibial stress syndrome affecting the left lower leg.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Tinnitus": {
+    "name": "Left Tinnitus",
+    "description": "Ringing or buzzing noise in the left ear.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Tumbesvaer": {
+    "name": "Left Thumb Discomfort",
+    "description": "Pain or discomfort in the left thumb.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Under_armsbesvaer": {
+    "name": "Left Forearm Discomfort",
+    "description": "Pain or discomfort in the left forearm.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "L_Vadbesvaer": {
+    "name": "Left Calf Discomfort",
+    "description": "Pain or discomfort in the left calf.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "Laterala_bukbesvaer": {
+    "name": "Lateral Abdominal Discomfort",
+    "description": "Pain or discomfort on the sides of the abdomen.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "Lumbago": {
+    "name": "Lumbago",
+    "description": "General lower back pain.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "Munbesvaer": {
+    "name": "Mouth Discomfort",
+    "description": "Discomfort or issues in the mouth.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "Nackbesvaer": {
+    "name": "Neck Discomfort",
+    "description": "General pain or discomfort in the neck.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "Nedre_bukbesvaer": {
+    "name": "Lower Abdominal Discomfort",
+    "description": "Pain or discomfort in the lower abdomen.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "Oevre_bukbesvaer": {
+    "name": "Upper Abdominal Discomfort",
+    "description": "Pain or discomfort in the upper abdomen.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "Pannhuvudvaerk": {
+    "name": "Frontal Headache",
+    "description": "Headache affecting the forehead.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Achillesbesvaer": {
+    "name": "Right Achilles Discomfort",
+    "description": "Pain or discomfort in the right Achilles tendon.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Achillestendalgi": {
+    "name": "Right Achilles Tendalgia",
+    "description": "Pain specifically originating from the right Achilles tendon.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Achillodyni": {
+    "name": "Right Achillodynia",
+    "description": "Soreness or pain syndrome in the right Achilles tendon.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Adduktortendalgi": {
+    "name": "Right Adductor Tendalgia",
+    "description": "Pain in the right adductor tendons.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Armbaagsbesvaer": {
+    "name": "Right Elbow Discomfort",
+    "description": "Pain or discomfort in the right elbow.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Armbesvaer": {
+    "name": "Right Arm Discomfort",
+    "description": "Pain or discomfort in the right arm.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Armvecksbesvaer": {
+    "name": "Right Cubital Fossa Discomfort",
+    "description": "Pain or discomfort in the right crook of the arm.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Axel_impingement": {
+    "name": "Right Shoulder Impingement",
+    "description": "Impingement syndrome in the right shoulder.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Axelbesvaer": {
+    "name": "Right Shoulder Discomfort",
+    "description": "Pain or discomfort in the right shoulder.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Bakhuvudvaerk": {
+    "name": "Right Occipital Headache",
+    "description": "Pain in the right back side of the head.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Bakre_laarbesvaer": {
+    "name": "Right Posterior Thigh Discomfort",
+    "description": "Pain or discomfort in the back of the right thigh.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Benbesvaer": {
+    "name": "Right Leg Discomfort",
+    "description": "Pain or discomfort in the right leg.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Broestbesvaer": {
+    "name": "Right Chest Discomfort",
+    "description": "Pain or discomfort in the right chest.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_C2_Radikulopati": {
+    "name": "Right C2 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the right C2 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_C3_Radikulopati": {
+    "name": "Right C3 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the right C3 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_C4_Radikulopati": {
+    "name": "Right C4 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the right C4 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_C5_Radikulopati": {
+    "name": "Right C5 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the right C5 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_C6_Radikulopati": {
+    "name": "Right C6 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the right C6 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_C7_Radikulopati": {
+    "name": "Right C7 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the right C7 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_C8_Radikulopati": {
+    "name": "Right C8 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the right C8 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Dorsala_knaeledsbesvaer": {
+    "name": "Right Dorsal Knee Discomfort",
+    "description": "Pain or discomfort behind the right knee.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Fingerbesvaer": {
+    "name": "Right Finger Discomfort",
+    "description": "Pain or discomfort in the right fingers.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Fotbesvaer": {
+    "name": "Right Foot Discomfort",
+    "description": "Pain or discomfort in the right foot.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Fotledsbesvaer": {
+    "name": "Right Ankle Discomfort",
+    "description": "Pain or discomfort in the right ankle.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Fotvalvsbesvaer": {
+    "name": "Right Plantar Arch Discomfort",
+    "description": "Pain or discomfort in the arch of the right foot.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Fraemre_Axelbesvaer": {
+    "name": "Right Anterior Shoulder Discomfort",
+    "description": "Pain or discomfort in the front of the right shoulder.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Fraemre_knaebesvaer": {
+    "name": "Right Anterior Knee Discomfort",
+    "description": "Pain or discomfort in the front of the right knee.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Fraemre_laarbesvaer": {
+    "name": "Right Anterior Thigh Discomfort",
+    "description": "Pain or discomfort in the front of the right thigh.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Haelbesvaer": {
+    "name": "Right Heel Discomfort",
+    "description": "Pain or discomfort in the right heel.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Handbesvaer": {
+    "name": "Right Hand Discomfort",
+    "description": "Pain or discomfort in the right hand.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Handledsbesvaer": {
+    "name": "Right Wrist Discomfort",
+    "description": "Pain or discomfort in the right wrist.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Hoeftbesvaer": {
+    "name": "Right Hip Discomfort",
+    "description": "Pain or discomfort in the right hip.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Hoeftkamsbesvaer": {
+    "name": "Right Iliac Crest Discomfort",
+    "description": "Pain or discomfort at the right iliac crest (hip bone).",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Interskapulaera_besvaer": {
+    "name": "Right Interscapular Discomfort",
+    "description": "Pain or discomfort to the right side between the shoulder blades.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Ischias": {
+    "name": "Right Sciatica",
+    "description": "Sciatic nerve pain extending down the right leg.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Kaekbesvaer": {
+    "name": "Right Jaw Discomfort",
+    "description": "Pain or discomfort in the right side of the jaw.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Knaebesvaer": {
+    "name": "Right Knee Discomfort",
+    "description": "Pain or discomfort in the right knee.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_L1_Radikulopati": {
+    "name": "Right L1 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the right L1 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_L2_Radikulopati": {
+    "name": "Right L2 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the right L2 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_L3_Radikulopati": {
+    "name": "Right L3 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the right L3 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_L4_Radikulopati": {
+    "name": "Right L4 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the right L4 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_L5_Radikulopati": {
+    "name": "Right L5 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the right L5 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Laarbesvaer": {
+    "name": "Right Thigh Discomfort",
+    "description": "Pain or discomfort in the right thigh.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Laterala_Fotbesvaer": {
+    "name": "Right Lateral Foot Discomfort",
+    "description": "Pain or discomfort on the outside of the right foot.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Laterala_armbaagsbesvaer": {
+    "name": "Right Lateral Elbow Discomfort",
+    "description": "Pain or discomfort on the outside of the right elbow.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Laterala_knaebesvaer": {
+    "name": "Right Lateral Knee Discomfort",
+    "description": "Pain or discomfort on the outside of the right knee.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Laterala_ljumskbesvaer": {
+    "name": "Right Lateral Groin Discomfort",
+    "description": "Pain or discomfort on the outside of the right groin.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Lillfingerbesvaer": {
+    "name": "Right Little Finger Discomfort",
+    "description": "Pain or discomfort in the right little finger.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Ljumskbesvaer": {
+    "name": "Right Groin Discomfort",
+    "description": "Pain or discomfort in the right groin.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Lumbago": {
+    "name": "Right Lumbago",
+    "description": "Lower back pain mostly on the right side.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Mediala_armbaagsbesvaer": {
+    "name": "Right Medial Elbow Discomfort",
+    "description": "Pain or discomfort on the inside of the right elbow.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Mediala_knaeledsbesvaer": {
+    "name": "Right Medial Knee Discomfort",
+    "description": "Pain or discomfort on the inside of the right knee.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Mediala_vadbesvaer": {
+    "name": "Right Medial Calf Discomfort",
+    "description": "Pain or discomfort on the inside of the right calf.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Mortonbesvaer": {
+    "name": "Right Morton's Neuroma",
+    "description": "Pain or discomfort due to Morton's neuroma in the right foot.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Nackbesvaer": {
+    "name": "Right Neck Discomfort",
+    "description": "Pain or discomfort on the right side of the neck.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Nyckelbensbesvaer": {
+    "name": "Right Collarbone Discomfort",
+    "description": "Pain or discomfort around the right collarbone.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Oegonbesvaer": {
+    "name": "Right Eye Discomfort",
+    "description": "Discomfort or issues affecting the right eye.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Oeronbesvaer": {
+    "name": "Right Ear Discomfort",
+    "description": "Discomfort or issues affecting the right ear.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_PFS": {
+    "name": "Right Patellofemoral Pain Syndrome",
+    "description": "Pain around or behind the kneecap in the right knee.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Pannhuvudvaerk": {
+    "name": "Right Frontal Headache",
+    "description": "Headache affecting the right side of the forehead.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_S1_Radikulopati": {
+    "name": "Right S1 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the right S1 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_S2_Radikulopati": {
+    "name": "Right S2 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the right S2 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Skinkbesvaer": {
+    "name": "Right Buttock Discomfort",
+    "description": "Pain or discomfort in the right buttock.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Skulderbesvaer": {
+    "name": "Right Shoulder Blade Discomfort",
+    "description": "Pain or discomfort around the right shoulder blade.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Stortaarbesvaer": {
+    "name": "Right Big Toe Discomfort",
+    "description": "Pain or discomfort in the right big toe.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_T10_Radikulopati": {
+    "name": "Right T10 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the right T10 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_T11_Radikulopati": {
+    "name": "Right T11 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the right T11 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_T12_Radikulopati": {
+    "name": "Right T12 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the right T12 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_T1_Radikulopati": {
+    "name": "Right T1 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the right T1 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_T2_Radikulopati": {
+    "name": "Right T2 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the right T2 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_T3_Radikulopati": {
+    "name": "Right T3 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the right T3 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_T4_Radikulopati": {
+    "name": "Right T4 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the right T4 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_T5_Radikulopati": {
+    "name": "Right T5 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the right T5 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_T6_Radikulopati": {
+    "name": "Right T6 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the right T6 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_T7_Radikulopati": {
+    "name": "Right T7 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the right T7 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_T8_Radikulopati": {
+    "name": "Right T8 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the right T8 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_T9_Radikulopati": {
+    "name": "Right T9 Radiculopathy",
+    "description": "Nerve root impingement/dysfunction at the right T9 level.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Taaledbesvaer": {
+    "name": "Right Toe Joint Discomfort",
+    "description": "Pain or discomfort in the right toe joints.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Taarbesvaer": {
+    "name": "Right Toe Discomfort",
+    "description": "Pain or discomfort in the right toes.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Tibiaperialgi": {
+    "name": "Right Shin Splints",
+    "description": "Medial tibial stress syndrome affecting the right lower leg.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Tinnitus": {
+    "name": "Right Tinnitus",
+    "description": "Ringing or buzzing noise in the right ear.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Tumbesvaer": {
+    "name": "Right Thumb Discomfort",
+    "description": "Pain or discomfort in the right thumb.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Under_armsbesvaer": {
+    "name": "Right Forearm Discomfort",
+    "description": "Pain or discomfort in the right forearm.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "R_Vadbesvaer": {
+    "name": "Right Calf Discomfort",
+    "description": "Pain or discomfort in the right calf.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "Ryggsbesvaer": {
+    "name": "Back Discomfort",
+    "description": "General pain or discomfort in the back.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "Svalgbesvaer": {
+    "name": "Pharyngeal Discomfort",
+    "description": "Pain or issues affecting the throat/pharynx.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  },
+  "Torakal_Dysfunktion": {
+    "name": "Thoracic Dysfunction",
+    "description": "Functional impairment or pain in the thoracic region.",
+    "states_description": {
+      "0": "Absent",
+      "1": "Present"
+    }
+  }
+}

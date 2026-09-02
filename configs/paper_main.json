@@ -1,0 +1,73 @@
+{
+  "name": "paper_main",
+  "defaults": {
+    "models": [
+      "bagging",
+      "llm_bagging_all_augs"
+    ],
+    "llm": "gpt-5.4-2026-03-05",
+    "llm_provider": "openai",
+    "llm_reasoning_effort": "medium",
+    "llm_max_tokens": 4096,
+    "llm_temperature": null,
+    "num_samples": 1000,
+    "num_rows_per_sample": 10000,
+    "num_cols_per_sample": 15,
+    "parent_frequency_cutoff": 0.5,
+    "sample_batch_size": 50,
+    "score_method": "bdeu",
+    "structure_algorithm": "ges",
+    "column_upweight_factor": 5.0,
+    "num_adaptive_passes": 1,
+    "num_targeted_samples_per_node": 10,
+    "uncertainty_entropy_threshold": 0.7,
+    "min_co_occurrence_for_uncertainty": 5,
+    "parent_ordering_show_counts": true,
+    "fit_parameters": false,
+    "num_trials": 1,
+    "use_llm_cache": true,
+    "verbose": true
+  },
+  "datasets": [
+    {
+      "name": "insurance",
+      "csv_path": "data/insurance/synthetic/train.csv",
+      "ground_truth_model_path": "data/insurance/model.bif",
+      "variable_description_path": "data/insurance/variable_descriptions.json",
+      "max_parents_per_node": 3,
+      "max_workers": 10
+    },
+    {
+      "name": "hepar2",
+      "csv_path": "data/hepar2/synthetic/train.csv",
+      "ground_truth_model_path": "data/hepar2/model.bif",
+      "variable_description_path": "data/hepar2/variable_descriptions.json",
+      "max_parents_per_node": 6,
+      "max_workers": 8
+    },
+    {
+      "name": "neuropathic",
+      "csv_path": "data/neuropathic/synthetic/train.csv",
+      "ground_truth_model_path": "data/neuropathic/model.bif",
+      "variable_description_path": "data/neuropathic/variable_descriptions.json",
+      "max_parents_per_node": 20,
+      "max_workers": 5
+    },
+    {
+      "name": "diabetes",
+      "csv_path": "data/diabetes/synthetic/train.csv",
+      "ground_truth_model_path": "data/diabetes/model.bif",
+      "variable_description_path": "data/diabetes/variable_descriptions.json",
+      "max_parents_per_node": 2,
+      "max_workers": 5
+    },
+    {
+      "name": "munin",
+      "csv_path": "data/munin/synthetic/train.csv",
+      "ground_truth_model_path": "data/munin/model.bif",
+      "variable_description_path": "data/munin/variable_descriptions.json",
+      "max_parents_per_node": 3,
+      "max_workers": 6
+    }
+  ]
+}

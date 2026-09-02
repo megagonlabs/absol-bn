@@ -1,0 +1,182 @@
+{
+  "Age": {
+    "name": "Infant Age",
+    "description": "The age of the newborn infant since birth.",
+    "states_description": {
+      "0-3_days": "Newborn within the first 3 days of life.",
+      "4-10_days": "Infant between 4 and 10 days old.",
+      "11-30_days": "Infant between 11 and 30 days old."
+    }
+  },
+  "BirthAsphyxia": {
+    "name": "Birth Asphyxia",
+    "description": "Whether the infant experienced oxygen deprivation during or shortly after birth.",
+    "states_description": {
+      "yes": "The infant experienced birth asphyxia.",
+      "no": "The infant did not experience birth asphyxia."
+    }
+  },
+  "CO2": {
+    "name": "Blood CO2 Level",
+    "description": "The measured carbon dioxide level in the infant's blood.",
+    "states_description": {
+      "Normal": "CO2 level is within the normal range.",
+      "Low": "CO2 level is below normal (hypocapnia).",
+      "High": "CO2 level is above normal (hypercapnia)."
+    }
+  },
+  "CO2Report": {
+    "name": "CO2 Report",
+    "description": "The reported blood CO2 measurement categorized by a clinical threshold.",
+    "states_description": {
+      "<7.5": "Reported CO2 value is below 7.5 kPa.",
+      ">=7.5": "Reported CO2 value is 7.5 kPa or above."
+    }
+  },
+  "CardiacMixing": {
+    "name": "Cardiac Mixing",
+    "description": "The degree of mixing between oxygenated and deoxygenated blood within the heart.",
+    "states_description": {
+      "None": "No mixing of oxygenated and deoxygenated blood.",
+      "Mild": "Mild mixing of blood across cardiac chambers.",
+      "Complete": "Complete mixing of oxygenated and deoxygenated blood.",
+      "Transp.": "Transposition physiology with parallel circulations requiring mixing for survival."
+    }
+  },
+  "ChestXray": {
+    "name": "Chest X-ray Finding",
+    "description": "The actual appearance of the infant's chest X-ray.",
+    "states_description": {
+      "Normal": "Chest X-ray appears normal.",
+      "Oligaemic": "Lung fields show reduced blood flow (oligaemic appearance).",
+      "Plethoric": "Lung fields show increased blood flow (plethoric appearance).",
+      "Grd_Glass": "Lung fields show a diffuse ground-glass opacity.",
+      "Asy/Patch": "Lung fields show asymmetric or patchy opacities."
+    }
+  },
+  "Disease": {
+    "name": "Congenital Disease",
+    "description": "The underlying congenital heart or lung disease affecting the infant.",
+    "states_description": {
+      "PFC": "Persistent Fetal Circulation (persistent pulmonary hypertension of the newborn).",
+      "TGA": "Transposition of the Great Arteries.",
+      "Fallot": "Tetralogy of Fallot.",
+      "PAIVS": "Pulmonary Atresia with Intact Ventricular Septum.",
+      "TAPVD": "Total Anomalous Pulmonary Venous Drainage.",
+      "Lung": "Primary lung disease without a structural cardiac defect."
+    }
+  },
+  "DuctFlow": {
+    "name": "Ductus Arteriosus Flow Direction",
+    "description": "The direction of blood flow through the ductus arteriosus.",
+    "states_description": {
+      "Lt_to_Rt": "Blood flows from left (aorta) to right (pulmonary artery).",
+      "None": "No flow through the ductus arteriosus (closed or absent).",
+      "Rt_to_Lt": "Blood flows from right (pulmonary artery) to left (aorta)."
+    }
+  },
+  "Grunting": {
+    "name": "Grunting",
+    "description": "Whether the infant is actually exhibiting grunting respirations, a sign of respiratory distress.",
+    "states_description": {
+      "yes": "The infant is grunting.",
+      "no": "The infant is not grunting."
+    }
+  },
+  "GruntingReport": {
+    "name": "Grunting Report",
+    "description": "Whether grunting was reported on clinical assessment.",
+    "states_description": {
+      "yes": "Grunting was reported.",
+      "no": "Grunting was not reported."
+    }
+  },
+  "HypDistrib": {
+    "name": "Hypoxia Distribution",
+    "description": "Whether hypoxia is distributed equally or unequally between the upper and lower body.",
+    "states_description": {
+      "Equal": "Oxygen levels are similar in the upper and lower body.",
+      "Unequal": "Oxygen levels differ between the upper and lower body."
+    }
+  },
+  "HypoxiaInO2": {
+    "name": "Hypoxia in O2",
+    "description": "The severity of hypoxia observed when the infant is placed on supplemental oxygen.",
+    "states_description": {
+      "Mild": "Mild hypoxia persisting despite supplemental oxygen.",
+      "Moderate": "Moderate hypoxia persisting despite supplemental oxygen.",
+      "Severe": "Severe hypoxia persisting despite supplemental oxygen."
+    }
+  },
+  "LVH": {
+    "name": "Left Ventricular Hypertrophy",
+    "description": "Whether the infant actually has left ventricular hypertrophy.",
+    "states_description": {
+      "yes": "Left ventricular hypertrophy is present.",
+      "no": "Left ventricular hypertrophy is not present."
+    }
+  },
+  "LVHreport": {
+    "name": "LVH Report",
+    "description": "Whether left ventricular hypertrophy was reported on clinical evaluation (e.g., ECG or echocardiography).",
+    "states_description": {
+      "yes": "LVH was reported.",
+      "no": "LVH was not reported."
+    }
+  },
+  "LowerBodyO2": {
+    "name": "Lower Body Oxygen Saturation",
+    "description": "The measured oxygen saturation in the infant's lower body (post-ductal).",
+    "states_description": {
+      "<5": "Oxygen saturation below 5 kPa, indicating severe hypoxia.",
+      "5-12": "Oxygen saturation between 5 and 12 kPa, indicating moderate hypoxia.",
+      "12+": "Oxygen saturation above 12 kPa, within or near normal range."
+    }
+  },
+  "LungFlow": {
+    "name": "Lung Blood Flow",
+    "description": "The volume of blood flow through the pulmonary vasculature.",
+    "states_description": {
+      "Normal": "Normal pulmonary blood flow.",
+      "Low": "Reduced pulmonary blood flow.",
+      "High": "Increased pulmonary blood flow."
+    }
+  },
+  "LungParench": {
+    "name": "Lung Parenchyma",
+    "description": "The condition of the lung tissue (parenchyma).",
+    "states_description": {
+      "Normal": "Lung parenchyma appears normal.",
+      "Congested": "Lung parenchyma is congested with fluid or blood.",
+      "Abnormal": "Lung parenchyma shows abnormal pathology (e.g., disease or inflammation)."
+    }
+  },
+  "RUQO2": {
+    "name": "Right Upper Quadrant Oxygen Saturation",
+    "description": "The measured oxygen saturation in the right upper quadrant (pre-ductal), typically from the right hand or arm.",
+    "states_description": {
+      "<5": "Oxygen saturation below 5 kPa, indicating severe hypoxia.",
+      "5-12": "Oxygen saturation between 5 and 12 kPa, indicating moderate hypoxia.",
+      "12+": "Oxygen saturation above 12 kPa, within or near normal range."
+    }
+  },
+  "Sick": {
+    "name": "Sick",
+    "description": "Whether the infant appears clinically sick on overall assessment.",
+    "states_description": {
+      "yes": "The infant appears clinically unwell.",
+      "no": "The infant does not appear clinically unwell."
+    }
+  },
+  "XrayReport": {
+    "name": "X-ray Report",
+    "description": "The radiologist's reported interpretation of the chest X-ray.",
+    "states_description": {
+      "Normal": "X-ray reported as normal.",
+      "Oligaemic": "X-ray reported as showing oligaemic lung fields.",
+      "Plethoric": "X-ray reported as showing plethoric lung fields.",
+      "Grd_Glass": "X-ray reported as showing ground-glass opacification.",
+      "Asy/Patchy": "X-ray reported as showing asymmetric or patchy opacities."
+    }
+  }
+}

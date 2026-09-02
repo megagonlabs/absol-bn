@@ -1,0 +1,24 @@
+{
+  "name": "example_insurance",
+  "defaults": {
+    "models": ["bagging"],
+    "num_samples": 10,
+    "num_rows_per_sample": 1000,
+    "num_cols_per_sample": 10,
+    "parent_frequency_cutoff": 0.5,
+    "sample_batch_size": 5,
+    "fit_parameters": false,
+    "random_seed": 42,
+    "verbose": true
+  },
+  "datasets": [
+    {
+      "name": "insurance",
+      "csv_path": "data/insurance/synthetic/train.csv",
+      "ground_truth_model_path": "data/insurance/model.bif",
+      "variable_description_path": "data/insurance/variable_descriptions.json",
+      "max_parents_per_node": 3,
+      "max_workers": 1
+    }
+  ]
+}
